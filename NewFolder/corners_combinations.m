@@ -1,6 +1,6 @@
 function [corners, comb] = corners_combinations(stim_ind)
 % Create all possible combinations for collinearity check (between corners):
-
+% added more changes
 % Find max and min (corners):
 rowMax = find(stim_ind(:,1)==max(stim_ind(:,1)));
 rowMin = find(stim_ind(:,1)==min(stim_ind(:,1)));

@@ -1,6 +1,6 @@
 % function choose_best_trans_left(all_anchor_points)
 clear all
-% added a change
+% added a changes
 % This script is to be used after performing the optimization.
 % This script shows visually the transformations according to the
 % optimization performed (minimal RMSDs calculated in
